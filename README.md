@@ -252,7 +252,7 @@ Type:  kubernetes.io/service-account-token
 Data
 ====
 namespace:  11 bytes
-token:      eyJhbGciOiJSUzI1NiIsImtpZCI6Inl2TUYwa0h6TDNKbzRSa1Znck5WVWNETkNkZTdQdkZlZkZfYzlaNkZMTVUifQ.eyJpc3MiOiJrdWJlcm5ldGVzL3NlcnZpY2VhY2NvdW50Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9uYW1lc3BhY2UiOiJrdWJlLXN5c3RlbSIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VjcmV0Lm5hbWUiOiJtaWNyb2s4cy1kYXNoYm9hcmQtdG9rZW4iLCJrdWJlcm5ldGVzLmlvL3NlcnZpY2VhY2NvdW50L3NlcnZpY2UtYWNjb3VudC5uYW1lIjoiZGVmYXVsdCIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VydmljZS1hY2NvdW50LnVpZCI6ImQyYzFmYmZiLWFkMDktNGU0YS04NjU5LTBiMjk0NzY3NDBjNCIsInN1YiI6InN5c3RlbTpzZXJ2aWNlYWNjb3VudDprdWJlLXN5c3RlbTpkZWZhdWx0In0.cruUb0hTUE02v1AGTy21jZGHoSGew9j-2aDYFa_OVjsKIMsPm1W7A94eO7lrIz58ThUJMXimwNvAF7TEeuLm0DCeGU22cHX9W1tiw5F78A7a4YVsX1U0LPOByAXdcKC6q5q7QYLvED2wl-a7wtSgTyhH25FRSfS54U869wPk-rAAFsrKxlcSmUpyGEakbqxGpbBhkANS1nwiteIfEKvn8RSKA5QMoM8CBEilUztk8NydSG60mPGyqpSn1EQvpq4u4P_YOXBDaoGiT0xDeavOMtVTfsfahwCTg_G6ThCUcebD9XDi08Tz7tC_kI-kwYpTGZUoxpG4XuT7L9mmXEFppQ
+token:      ey.....
 ca.crt:     1123 bytes
 
 
@@ -382,7 +382,7 @@ root@vkvm:/home/vk# source ~/.bashrc
     users:
     - name: admin
       user:
-        token: OEc4NDJqeGxrelZxRVZpT0M3SjRaeERYTjF1T3hVR1pFRFpPYTlDeENTND0K
+        token: OEc....
 ```
 
 #### Cписок нод
